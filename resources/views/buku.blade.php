@@ -70,8 +70,6 @@
                 </td>
                 <td class="col p-2">
                     <a href="buku/{{ $buku-> id}}/edit" type="button" class="btn btn-warning">Edit</a>
-                </td>
-                <td class="col p-2">
                     <a href="{{ url('delete',$buku->id) }}" type="button" class="btn btn-danger">Hapus</a>
                 </td>
             </tr>
