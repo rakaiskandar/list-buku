@@ -12,13 +12,13 @@ Simple web app Book List Build with Laravel
 
 Clone the project
 ```bash
-  git clone https://github.com/rakaiskandar/rubabox.git
+  git clone https://github.com/rakaiskandar/list-buku.git
 ```
 **Step 2:**
 
 Go to the project directory
 ```bash
-  cd my-project
+  cd list-buku
 ```
 
 **Step 3:**
