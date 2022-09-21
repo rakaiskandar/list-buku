@@ -1,6 +1,6 @@
 ## Application Book List with Laravel
 
-Simple web app Book List Build with Laravel
+Simple web app Book List with Laravel
 
 ## Built with
 - [Laravel](https://laravel.com/)
